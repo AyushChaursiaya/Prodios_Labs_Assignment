@@ -18,7 +18,7 @@ To install and run this project for frontend and backend, follow these steps:
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/Pawan123Pawan/kanban-board
+   git clone https://github.com/AyushChaursiaya/Prodios_Labs_Assignment/
    ```
 
 2. Install dependencies:
